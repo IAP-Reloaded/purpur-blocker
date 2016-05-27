@@ -1,0 +1,9 @@
+{
+  "name": "PurpurBlocker",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "A custom ad blocker.",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "pop.html"
+  }}
